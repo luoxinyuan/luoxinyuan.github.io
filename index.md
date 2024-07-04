@@ -15,10 +15,9 @@ I received my Bachelor of Engineering from [the School of Sensing Science and Te
 
 ## News
 
-- **[July. 2025]** Our paper about pancake-making robot is accepted to IROS 2024.
+- **[July. 2025]** One paper about pancake-making robot accepted by IROS 2024!
 - **[August. 2024]** Joining UIUC as a master's student in Autonomy & Robotics MEng.
 - **[June. 2024]** Graduating from SJTU with a bachelor's degree!
-- **[Mar. 2024]** 
 
 {% include_relative _includes/publications.md %}
 
