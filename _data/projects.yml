@@ -1,0 +1,9 @@
+main:
+
+  - title: An Intelligent Robotic System for Perceptive Pancake Batter Stirring and Precise Pouring
+    authors: <strong>Xinyuan Luo*</strong>, Shengmiao Jin*, Hung-Jui Huang, Wenzhen Yuan (*Equal contribution)
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
+    pdf: http://www.arxiv.org/abs/2407.01755
+    image: ./assets/img/IROS24.gif
+    notes: Oral Presentation
