@@ -1,9 +1,9 @@
 main:
 
-  - title: An Intelligent Robotic System for Perceptive Pancake Batter Stirring and Precise Pouring
-    authors: <strong>Xinyuan Luo*</strong>, Shengmiao Jin*, Hung-Jui Huang, Wenzhen Yuan (*Equal contribution)
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
-    pdf: http://www.arxiv.org/abs/2407.01755
-    image: ./assets/img/IROS24.gif
-    notes: Oral Presentation
+  - title: Unmanned boat charging system
+    authors: <strong>Xinyuan Luo</strong>, Jiazhen Liu, Qiwen chen, Ning ma, Xiwen Min, Yuchao Liu, Chunyu Zhao* (*Adviser)
+    conference_short: PRP project
+    conference: Embedded Chip and System Design Competition
+    pdf: https://drive.google.com/file/d/1MFtoXyn0cDk455gm2mwG2c1YsxuKeKXu/view?usp=share_link
+    image: ./assets/img/unmanboat.gif
+    notes: Second Prize of the East China
