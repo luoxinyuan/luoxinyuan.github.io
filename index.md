@@ -21,4 +21,4 @@ I received my Bachelor of Engineering from [the School of Sensing Science and Te
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/projects.md %}
