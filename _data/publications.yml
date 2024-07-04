@@ -5,5 +5,5 @@ main:
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
     pdf: http://www.arxiv.org/abs/2407.01755
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/IROS24.gif
     notes: Early Accept
