@@ -22,6 +22,14 @@ main:
     image: ./assets/img/qqbot.png
     notes: Sold 200+ copies on Taobao
 
+  - title: "Pix: An Intelligent Aircraft Acoustic Monitoring System"
+    authors: Jiaan Chen, Qi Chen, Danyang Wang, <strong>Xinyuan Luo</strong>, Mingxiang Gu, Peiyun Hu, Muyun Ding, Ningxuan Gao, Le Liang, Zijun Liu, Xinyu Tu, Kaixin Wei, Siqi Xu, Ronghui Zhou, Yujing Zheng, Junpu Wang, Chunyu Zhao, Yuejun Wu, Manhua Liu, Zhenyu Huang 
+    conference_short: Startup Project
+    conference: "The 9th China International College Students' Internet+ Innovation and Entrepreneurship Competition"
+    pdf: https://drive.google.com/file/d/16wsnLaLQfW0RPSYdyzU3ooyAsjroBjIQ/view?usp=share_link
+    image: ./assets/img/pix.png
+    notes: Silver Award
+
   - title: Human and Aerial Robot Collaborate to Carry Object
     authors: <strong>Xinyuan Luo</strong>, Mengxin Xu, Hesheng Wang(Adviser)
     conference_short: Undergrad project
