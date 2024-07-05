@@ -2,23 +2,38 @@ main:
   - title: Tendon-driven Minimally Invasive Surgical Robot Based on Double-position Closed-loop Detection
     authors: <strong>Xinyuan Luo</strong>, Hongbing Li(Adviser)
     conference_short: Undergrad Thesis
-    conference: Undergraduate Thesis/Design Project at Shanghai Jiao Tong University
+    conference: Undergraduate Thesis at Shanghai Jiao Tong University
     pdf: https://drive.google.com/file/d/15Sgc4JQcAVk263RCuE5r2Sz3gM8PEt7l/view?usp=share_link
     image: ./assets/img/tendonbot.png
     notes: Undergrad Thesis
 
+  - title: Tanikaze Amane: AI Girlfriend Powered by LLM
+    authors: <strong>Xinyuan Luo</strong>
+    conference_short: Personal project
+    conference: Permanent memory/Understanding image/large ACG words database/likability system/State transfer model
+    image: ./assets/img/qqbot.png
+    notes: Sold 200+ copies on Taobao
+
   - title: Human and Aerial Robot Collaborate to Carry Object
     authors: <strong>Xinyuan Luo</strong>, Mengxin Xu, Hesheng Wang(Adviser)
     conference_short: Undergrad project
-    conference: First scientific project
+    conference: Unfinished due to COVID
     pdf: https://drive.google.com/file/d/12LjqsE9yfc00qASOfQg4PdhVLYQw0a2F/view?usp=share_link
     image: ./assets/img/phri.png
-    notes: Unfinished due to covid
+    notes: Personal First scientific project
  
   - title: Unmanned Boat Charging System
-    authors: <strong>Xinyuan Luo</strong>, Jiazhen Liu, Qiwen chen, Ning ma, Xiwen Min, Yuchao Liu, Chunyu Zhao(Adviser)
+    authors: <strong>Xinyuan Luo</strong>, Jiazhen Liu, Qiwen Chen, Ning Ma, Xiwen Min, Yuchao Liu, Chunyu Zhao(Adviser)
     conference_short: PRP project
     conference: Embedded Chip and System Design Competition 2021
     pdf: https://drive.google.com/file/d/1MFtoXyn0cDk455gm2mwG2c1YsxuKeKXu/view?usp=share_link
     image: ./assets/img/unmanboat.gif
     notes: Second Prize of the East China Area
+
+  - title: Dormitory Bathroom Occupancy Monitoring System
+    authors: <strong>Xinyuan Luo</strong>, Qiwen Chen, Qingyun Hu, Songquan Xie, Wei Xu
+    conference_short: Course project
+    conference: Shanghai Jiao Tong University Engineering Innovation Project Exhibition 2019
+    pdf: https://drive.google.com/file/d/11D5KPpoMsJNvtw-H6hWlK5Xv9NtTgAz-/view?usp=share_link
+    image: ./assets/img/bathmonitor.png
+    notes: Outstanding Project
