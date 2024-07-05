@@ -10,6 +10,8 @@ I received my Bachelor of Engineering from [the School of Sensing Science and Te
 
 I am a passionate roboticist dedicated to the realization of general humanoid robots, aiming to contribute significantly to this field. My dream is to start my own company in robotics and help humanity achieve this technological milestone.
 
+I enjoy making friends with people from diverse backgrounds. Feel free to contact me via Email or WeChat: lxynzmzmc.
+
 ## Research Interests
 
 - **Robotics:** perception, manipulation, system pipeline design
