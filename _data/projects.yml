@@ -9,7 +9,7 @@ main:
     
   - title: Tendon-driven Minimally Invasive Surgical Robot Based on Double-position Closed-loop Detection
     authors: <strong>Xinyuan Luo</strong>, Hongbing Li(Adviser)
-    conference_short: Undergrad Thesis
+    conference_short: Undergrad thesis
     conference: Undergraduate Thesis at Shanghai Jiao Tong University
     pdf: https://drive.google.com/file/d/15Sgc4JQcAVk263RCuE5r2Sz3gM8PEt7l/view?usp=share_link
     image: ./assets/img/tendonbot.png
