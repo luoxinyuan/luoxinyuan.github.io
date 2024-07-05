@@ -7,7 +7,7 @@ main:
     image: ./assets/img/tendonbot.png
     notes: Undergrad Thesis
 
-  - title: Tanikaze Amane: AI Girlfriend Powered by LLM
+  - title: "Tanikaze Amane: AI Girlfriend Powered by LLM"
     authors: <strong>Xinyuan Luo</strong>
     conference_short: Personal project
     conference: Permanent memory/Understanding image/large ACG words database/likability system/State transfer model
