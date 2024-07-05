@@ -1,4 +1,12 @@
 main:
+  - title: Grasping Frictions Prediction of Common Groceries Using Tactile Sensing
+    authors: <strong>Xinyuan Luo</strong>, Wenzhen Yuan
+    conference_short: Course project
+    conference: Pre-work of robot cutting project
+    pdf: https://drive.google.com/file/d/1LRlfWSxaqJs_4g_jlPm47Kp1mTi7srx6/view?usp=share_link
+    image: ./assets/img/frontview.gif
+    notes: Ready to submit
+    
   - title: Tendon-driven Minimally Invasive Surgical Robot Based on Double-position Closed-loop Detection
     authors: <strong>Xinyuan Luo</strong>, Hongbing Li(Adviser)
     conference_short: Undergrad Thesis
