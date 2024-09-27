@@ -18,8 +18,8 @@ main:
 
   - title: Grasping Frictions Prediction of Common Groceries Using Tactile Sensing
     authors: <strong>Xinyuan Luo</strong>, Wenzhen Yuan
-    conference_short: 2025 IEEE International Conference on Robotics & Automation
-    conference: Pre-work of robot cutting project
+    conference_short: ICRA
+    conference: 2025 IEEE International Conference on Robotics & Automation
     pdf: https://drive.google.com/file/d/1LRlfWSxaqJs_4g_jlPm47Kp1mTi7srx6/view?usp=share_link
     image: ./assets/img/frontview.gif
     notes: In submission
