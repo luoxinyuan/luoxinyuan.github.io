@@ -14,6 +14,7 @@ main:
     conference_short: ICRA
     conference: 2025 IEEE International Conference on Robotics & Automation
     pdf: https://drive.google.com/file/d/1v0ehR4crlcBlIdZiEbrBpwVy4K5BHnA0/view?usp=share_link
+    video: https://youtu.be/zM74sKFoV50?si=VYccnbr6H5cd8Ou_
     image: ./assets/img/cutting.gif
     notes: In submission
 
@@ -22,5 +23,6 @@ main:
     conference_short: ICRA
     conference: 2025 IEEE International Conference on Robotics & Automation
     pdf: https://drive.google.com/file/d/1LRlfWSxaqJs_4g_jlPm47Kp1mTi7srx6/view?usp=share_link
+    video: https://youtu.be/OP6Er4vxXQ4?si=KQeOxhvSqzmVbANb
     image: ./assets/img/frontview.gif
     notes: In submission
