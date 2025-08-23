@@ -23,6 +23,9 @@ I enjoy making friends with people from diverse backgrounds. Feel free to contac
 
 ## News
 
+- **[Aug. 2025]** Joining Duke University as a PhD student!
+- **[Jan. 2025]** Joining Kepler Robotics!
+- **[Dec. 2024]** Graduating from UIUC!
 - **[July. 2024]** One paper about pancake-making robot accepted by IROS 2024!
 - **[August. 2023]** Joining UIUC as a master's student in Autonomy & Robotics MEng.
 - **[June. 2023]** Graduating from SJTU with a bachelor's degree!
