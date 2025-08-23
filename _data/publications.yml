@@ -13,7 +13,7 @@ main:
   - title: A Perception-Manipulation Robotic System for Food Cutting
     authors: <strong>Xinyuan Luo</strong>, Wenzhen Yuan
     conference_short: ICRA
-    conference: 2025 IEEE International Conference on Robotics & Automation
+    conference: 2026 IEEE International Conference on Robotics & Automation
     pdf: https://drive.google.com/file/d/1v0ehR4crlcBlIdZiEbrBpwVy4K5BHnA0/view?usp=share_link
     video: https://youtu.be/zM74sKFoV50?si=VYccnbr6H5cd8Ou_
     image: ./assets/img/cutting.gif
