@@ -2,8 +2,8 @@ main:
 
   - title: "CEER: Compliant End-Effector and Root Control as a Unified Interface for Hierarchical Humanoid Loco-Manipulation"
     authors: <strong>Xinyuan Luo</strong>, Xingrui Chen, Xunjian Yin, Hongxuan Wu, Boxi Xia, Zhuoqun Chen, Jinzhou Li, Boyuan Chen, Xianyi Cheng
-    conference_short: In submission
-    conference: In submission
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2026.
     pdf: https://arxiv.org/abs/2605.19981
     video: https://www.youtube.com/watch?v=8dyjPE88mqY&feature=youtu.be
     page: https://robotproject8.github.io/ceer_page/
@@ -21,8 +21,9 @@ main:
 
   - title: A Perception-Manipulation Robotic System for Food Cutting
     authors: <strong>Xinyuan Luo</strong>, Wenzhen Yuan
-    conference_short: In submission
-    conference: In submission
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2026.
     pdf: https://drive.google.com/file/d/1v0ehR4crlcBlIdZiEbrBpwVy4K5BHnA0/view?usp=share_link
-    video: https://youtu.be/zM74sKFoV50?si=VYccnbr6H5cd8Ou_
+    video: https://youtu.be/GDqM21fm6qY?si=xnQ6P2qp_Ttxs1Dv
+    page: https://robotproject8.github.io/robocutting/
     image: ./assets/img/cutting.gif

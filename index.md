@@ -23,6 +23,7 @@ I enjoy making friends with people from diverse backgrounds. Feel free to contac
 
 ## News
 
+- **[July. 2026]** Two papers accepted by IROS 2026!
 - **[Aug. 2025]** Joining Duke University as a PhD student!
 - **[Jan. 2025]** Joining Kepler Robotics!
 - **[Dec. 2024]** Graduating from UIUC!
