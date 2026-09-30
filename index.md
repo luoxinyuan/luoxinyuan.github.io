@@ -18,8 +18,8 @@ I enjoy making friends with people from diverse backgrounds. Feel free to contac
 
 ## Research Interests
 
-- **Robotics:** perception, manipulation, system pipeline design
-- **Machine Learning:** reinforcement learning, large language model
+- Humanoid whole-body compliance
+- Agentic systems, modular skills, robotic system integration, and low-level world models
 
 ## News
 
