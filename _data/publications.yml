@@ -3,10 +3,10 @@ main:
   - title: "CEER2: Directional and Tunable End-Effector and Root Compliance for Humanoid Loco-Manipulation"
     authors: <strong>Xinyuan Luo</strong>, Chunyuan Yang, Boyuan Chen, Xianyi Cheng
     conference: In submission
-    pdf: https://luoxinyuan.github.io/
+    pdf: https://arxiv.org/abs/2609.38709
     video: https://luoxinyuan.github.io/
     page: https://ee-root-compliance.github.io/
-    demo: https://ee-root-compliance.github.io/
+    demo: https://ee-root-compliance.github.io/#live-demo
     image: ./assets/img/ceer2.gif
 
   - title: "CEER: Compliant End-Effector and Root Control as a Unified Interface for Hierarchical Humanoid Loco-Manipulation"
