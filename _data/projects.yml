@@ -45,6 +45,7 @@ main:
     conference_short: PRP project
     conference: Embedded Chip and System Design Competition 2021
     pdf: https://drive.google.com/file/d/1MFtoXyn0cDk455gm2mwG2c1YsxuKeKXu/view?usp=share_link
+    pdf_label: PDF (Chinese)
     image: ./assets/img/unmanboat.gif
     notes: Second Prize of the East China Area
 
@@ -53,5 +54,6 @@ main:
     conference_short: Course project
     conference: Shanghai Jiao Tong University Engineering Innovation Project Exhibition 2019
     pdf: https://drive.google.com/file/d/11D5KPpoMsJNvtw-H6hWlK5Xv9NtTgAz-/view?usp=share_link
+    pdf_label: PDF (Chinese)
     image: ./assets/img/bathmonitor.png
     notes: Outstanding Project

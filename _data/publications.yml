@@ -26,13 +26,13 @@ main:
     video: https://youtu.be/-295mNAnFLk?si=6DfRKa6XSjIKbbrJ
     page: https://luoxinyuan.github.io/pancake/
     image: ./assets/img/IROS24.gif
-    notes: Oral Presentation/Best Entertainment and Amusement Paper
+    notes: Best Entertainment and Amusement Paper Finalist
 
   - title: A Perception-Manipulation Robotic System for Food Cutting
     authors: <strong>Xinyuan Luo</strong>, Wenzhen Yuan
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2026.
-    pdf: https://drive.google.com/file/d/1v0ehR4crlcBlIdZiEbrBpwVy4K5BHnA0/view?usp=share_link
+    pdf: https://arxiv.org/abs/2607.04367
     video: https://youtu.be/GDqM21fm6qY?si=xnQ6P2qp_Ttxs1Dv
     page: https://robotproject8.github.io/robocutting/
     image: ./assets/img/cutting.gif

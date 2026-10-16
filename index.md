@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Xinyuan Luo. I am a first-year PhD student in Robotics at Duke University, co-advised by [Prof. Xianyi Cheng](https://xianyicheng.github.io) at the [Robot Dexterity Lab](https://robotdexteritylab.com) and [Prof. Boyuan Chen](http://boyuanchen.com) at the [General Robotics Lab](http://generalroboticslab.com).
+My name is Xinyuan Luo. I am a second-year PhD student in Robotics at Duke University, co-advised by [Prof. Xianyi Cheng](https://xianyicheng.github.io) at the [Robot Dexterity Lab](https://robotdexteritylab.com) and [Prof. Boyuan Chen](http://boyuanchen.com) at the [General Robotics Lab](http://generalroboticslab.com).
 
 Before starting my PhD, I worked as a Robot Learning Engineer at [Kepler Robotics](https://www.gotokepler.com/home), focusing on dual-arm manipulation for humanoid robots in industrial applications.
 
@@ -14,12 +14,11 @@ I received my Bachelor of Engineering from [the School of Sensing Science and Te
 
 I am a passionate roboticist dedicated to the realization of general humanoid robots, aiming to contribute significantly to this field. My dream is to start my own company in robotics and help humanity achieve this technological milestone.
 
-I enjoy making friends with people from diverse backgrounds. Feel free to contact me via Email or WeChat: lxynzmzmc.
+I enjoy making friends with people from diverse backgrounds. Feel free to contact me via Email or WeChat: lxynzmzmc, or connect with me on [X](https://x.com/XinyuanL8).
 
 ## Research Interests
 
-- Humanoid whole-body compliance
-- Agentic systems, modular skills, robotic system integration, and low-level world models
+Humanoid whole-body control, compliance, physical interaction, and loco-manipulation; robotic system integration and agentic robotics.
 
 ## News
 
